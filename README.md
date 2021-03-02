@@ -12,7 +12,10 @@ $ git clone https://github.com/KKimj/HC-SR04
 2. WeMos D1 R1, https://www.devicemart.co.kr/goods/view?no=1312096
 3. Arduino IDE, https://www.arduino.cc/en/software
 
-## Running the tests
+## Examples
+
+![Alt text](screenshots/screenshot1.PNG?raw=true "Title")
+
 
 ## Acknowledgments
 https://wiznetacademy.com/tutorial/2164
